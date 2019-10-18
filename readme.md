@@ -22,7 +22,7 @@
 The files will be renamed with dt050, for example: _HH_BBT_rk4_dt050_100,0,vI70,t=8s_double_IappDES,Epis_***
 
 - LongDouble
-1. Open the _longDouble_ directory and compile the make file named *MakefileWin*		
+1. Open the **_longDouble_** directory and compile the make file named *MakefileWin*		
 2. After this, make sure that your have an HH_BBT2017_LongDouble.exe file
 3. For neurons 100% Excitatory and dt = 0.01 it will make four files inside the results directory, are they:
 	 - HH_BBT_rk4_dt0100_100,0,vI70,t=8s_LongDouble_IappDES,Epis.txt
@@ -40,7 +40,7 @@ The files will be renamed with dt050, for example: _HH_BBT_rk4_dt050_100,0,vI70,
 The files will be renamed with dt050, for example: _HH_BBT_rk4_dt050_100,0,vI70,t=8s_LongDouble_IappDES,Epis_***
 
 - Boost
-1. Open the _boost_ directory and compile the make file named *MakefileWin*		
+1. Open the **_boost_** directory and compile the make file named *MakefileWin*		
 2. After this, make sure that your have an HH_BBT2017_Boost.exe file
 3. For neurons 100% Excitatory and dt = 0.01 it will make four files inside the results directory, are they:
 	 - HH_BBT_rk4_dt0100_100,0,vI70,t=8s_doubleBoost_IappDES.txt
@@ -60,7 +60,7 @@ The files will be renamed with dt050, for example: _HH_BBT_rk4_dt050_100,0,vI70,
 > **If your platform is Linux or MacOS**
 
 - Double
-1. Open the _double_ directory and compile the make file named *MakefileMacLinux*		
+1. Open the **_double_** directory and compile the make file named *MakefileMacLinux*		
 2. After this, make sure that your have an HH_BBT2017_doubleP file
 3. For neurons 100% Excitatory and dt = 0.01 it will make four files inside the results directory, are they:
 	 - HH_BBT_rk4_dt0100_100,0,vI70,t=8s_double_IappDES,Epis.txt
@@ -78,7 +78,7 @@ The files will be renamed with dt050, for example: _HH_BBT_rk4_dt050_100,0,vI70,
 The files will be renamed with dt050, for example: _HH_BBT_rk4_dt050_100,0,vI70,t=8s_double_IappDES,Epis_***
 
 - LongDouble
-1. Open the _longDouble_ directory and compile the make file named *MakefileMacLinux*		
+1. Open the **_longDouble_** directory and compile the make file named *MakefileMacLinux*		
 2. After this, make sure that your have an HH_BBT2017_LongDouble file
 3. For neurons 100% Excitatory and dt = 0.01 it will make four files inside the results directory, are they:
 	 - HH_BBT_rk4_dt0100_100,0,vI70,t=8s_LongDouble_IappDES,Epis.txt
@@ -96,7 +96,7 @@ The files will be renamed with dt050, for example: _HH_BBT_rk4_dt050_100,0,vI70,
 The files will be renamed with dt050, for example: _HH_BBT_rk4_dt050_100,0,vI70,t=8s_LongDouble_IappDES,Epis_***
 
 - Boost
-1. Open the _boost_ directory and compile the make file named *MakefileMacLinux*		
+1. Open the **_boost_** directory and compile the make file named *MakefileMacLinux*		
 2. After this, make sure that your have an HH_BBT2017_Boost file
 3. For neurons 100% Excitatory and dt = 0.01 it will make four files inside the results directory, are they:
 	 - HH_BBT_rk4_dt0100_100,0,vI70,t=8s_doubleBoost_IappDES.txt
@@ -116,7 +116,7 @@ The files will be renamed with dt050, for example: _HH_BBT_rk4_dt050_100,0,vI70,
 
 ***After generated the archives for each platform and each precision***
 - Figure 1
-1. Open _figures_ directory on Matlab software
+1. Open **_figures_** directory on Matlab software
 - Figure 2 
 - Figure 3 
 - Figure 4 
