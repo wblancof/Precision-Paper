@@ -1,5 +1,5 @@
 
-*After set the environment with the c++ compile and the Boost library, open the file*
+***After set the environment with the _C++ compile_ and the _Boost library_, open the file***
 
 **How to compile**
 > If your platform is Windonws:
