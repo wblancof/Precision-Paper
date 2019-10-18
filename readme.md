@@ -19,7 +19,7 @@
 	 - HH_BBT_rk4_dt0100_100_20_vI_70_t8s_double_IappDES_Spikes.m
 
 ***For dt = 0.05, change the comand line 33 for 'const double dt = 0.05;' .
-The files will be renamed with dt050, for example: _HH_BBT_rk4_dt0100_100,0,vI70,t=8s_double_IappDES,Epis_***
+The files will be renamed with dt050, for example: _HH_BBT_rk4_dt050_100,0,vI70,t=8s_double_IappDES,Epis_***
 
 - LongDouble
 1. Open the Long Double directory and compile the make file named *MakefileWin*		
@@ -37,7 +37,7 @@ The files will be renamed with dt050, for example: _HH_BBT_rk4_dt0100_100,0,vI70
 	 - HH_BBT_rk4_dt0100_100_20_vI_70_t8s_LongDouble_IappDES_Spikes.m
 
 ***For dt = 0.05, change the comand line 38 for 'const double dt = 0.05;' .
-The files will be renamed with dt050, for example: _HH_BBT_rk4_dt0100_100,0,vI70,t=8s_LongDouble_IappDES,Epis_***
+The files will be renamed with dt050, for example: _HH_BBT_rk4_dt050_100,0,vI70,t=8s_LongDouble_IappDES,Epis_***
 
 - Boost
 1. Open the Boost directory and compile the make file named *MakefileWin*		
@@ -55,7 +55,7 @@ The files will be renamed with dt050, for example: _HH_BBT_rk4_dt0100_100,0,vI70
 	 - HH_BBT_rk4_dt0100_100_20_vI_70_t8s_doubleBoost_IappDES_Spikes.m
 
 ***For dt = 0.05, change the comand line 41 for 'const double dt = 0.05;' .
-The files will be renamed with dt050, for example: _HH_BBT_rk4_dt0100_100,0,vI70,t=8s_doubleBoost_IappDES_***
+The files will be renamed with dt050, for example: _HH_BBT_rk4_dt050_100,0,vI70,t=8s_doubleBoost_IappDES_***
 
 > If your platform is Linux or MacOS
 
