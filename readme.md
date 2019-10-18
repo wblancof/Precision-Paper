@@ -16,9 +16,10 @@
 	2. After this, make sure that your have
 	3. Compile the HH_BBT2017_Boost
 
-> If your platform is Linux or MacOS:<
+> If your platform is Linux or MacOS:
 
 > How compile the Figures
+
 ***After compile the archives for each platform and each precision***
 
 
