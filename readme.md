@@ -8,10 +8,10 @@
 	2. After this, make sure that your have
 	3. Compile the HH_BBT2017_doubleP
 	4. It will make four files inside the results directory, are they:
-		4.1 HH_BBT_rk4_dt0100_100,0,vI70,t=8s_double_IappDES,Epis
-		4.2 HH_BBT_rk4_dt0100_100,0,vI70,t=8s_double_IappDES,Iapp
-		4.3 HH_BBT_rk4_dt0100_100,0,vI70,t=8s_double_IappDES
-		4.4 HH_BBT_rk4_dt0100_100_0_vI_70_t8s_double_IappDES_Spikes
+		- HH_BBT_rk4_dt0100_100,0,vI70,t=8s_double_IappDES,Epis
+		- HH_BBT_rk4_dt0100_100,0,vI70,t=8s_double_IappDES,Iapp
+		- HH_BBT_rk4_dt0100_100,0,vI70,t=8s_double_IappDES
+		- HH_BBT_rk4_dt0100_100_0_vI_70_t8s_double_IappDES_Spikes
 - LongDouble
 	1. Open the Long Double directory and compile the make file named *MakefileWin*		
 	2. After this, make sure that your have
