@@ -57,7 +57,7 @@ The files will be renamed with dt050, for example: _HH_BBT_rk4_dt050_100,0,vI70,
 ***For dt = 0.05, change the comand line 41 for 'const double dt = 0.05;' .
 The files will be renamed with dt050, for example: _HH_BBT_rk4_dt050_100,0,vI70,t=8s_doubleBoost_IappDES_***
 
-> If your platform is Linux or MacOS
+> **If your platform is Linux or MacOS**
 
 - Double
 1. Open the Double directory and compile the make file named *MakefileMacLinux*		
@@ -112,7 +112,7 @@ The files will be renamed with dt050, for example: _HH_BBT_rk4_dt050_100,0,vI70,
 
 ***For dt = 0.05, change the comand line 41 for 'const double dt = 0.05;' .
 The files will be renamed with dt050, for example: _HH_BBT_rk4_dt050_100,0,vI70,t=8s_doubleBoost_IappDES_***
-> How compile the Figures
+> **How compile the Figures**
 
 ***After generated the archives for each platform and each precision***
 - Figure 1
