@@ -6,7 +6,7 @@
 - Double
 1. Open the Double directory and compile the make file named *MakefileWin*		
 2. After this, make sure that your have
-3. Compile the HH_BBT2017_doubleP with the parametes as you like
+3. Compile the HH_BBT2017_doubleP with the parameters as you like
 4. For neurons 100% Excitatory and dt = 0.01 it will make four files inside the results directory, are they:
 	 - HH_BBT_rk4_dt0100_100,0,vI70,t=8s_double_IappDES,Epis.txt
 	 - HH_BBT_rk4_dt0100_100,0,vI70,t=8s_double_IappDES,Iapp.txt
@@ -42,7 +42,7 @@
 
 ***After generated the archives for each platform and each precision***
 - Figure 1
-	1. Open the Matlab software and search for the directory preciosion 
+1. Open the Matlab software and search for the directory preciosion 
 - Figure 2 
 - Figure 3 
 - Figure 4 
