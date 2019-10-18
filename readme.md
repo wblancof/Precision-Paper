@@ -57,7 +57,7 @@ The files will be renamed with dt050, for example: _HH_BBT_rk4_dt050_100,0,vI70,
 ***For dt = 0.05, change the command line 41 for 'const double dt = 0.05;' .
 The files will be renamed with dt050, for example: _HH_BBT_rk4_dt050_100,0,vI70,t=8s_doubleBoost_IappDES_***
 
-> **If your platform is Linux or MacOS**
+> **If your platform is MacOS Linux**
 
 - Double
 1. Open the **_double_** directory and compile the make file named *MakefileMacLinux*		
@@ -116,8 +116,19 @@ The files will be renamed with dt050, for example: _HH_BBT_rk4_dt050_100,0,vI70,
 
 ***After generated the archives for each platform and each precision***
 - Figure 1
-	1. Open **_figures_** directory on Matlab software
+1. Open the Fig1_as.m file from **_figures_** directory on Matlab software
+2. Set the variables 'path_to_actual_directory' on the lines 5 (for Windows files), 18 (for MacOs files) and 31(for Linux files) for  each platform 
+3. Verify that the names of the files read are the same within the directories
+4. Compile the the file
 - Figure 2 
+1. Open the Fig2_as.m file from **_figures_** directory on Matlab software
+2. Set the variables 'path_to_actual_directory' on the lines 5 (for Windows files), 18 (for MacOs files) and 31(for Linux files) for  each platform 
+3. Verify that the names of the files read are the same within the directories
+4. Compile the the file
 - Figure 3 
+1. Open the Fig1_as.m file from **_figures_** directory on Matlab software
+2. Set the variables 'path_to_actual_directory' on the lines 5 (for Windows files), 18 (for MacOs files) and 31(for Linux files) for  each platform 
+3. Verify that the names of the files read are the same within the directories
+4. Compile the the file
 - Figure 4 
 - Figure 5 
