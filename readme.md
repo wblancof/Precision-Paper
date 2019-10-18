@@ -3,14 +3,19 @@
 
 **How to compile**
 > If your platform is Windonws:
-Double
-	1 - Open the Double directory and compile the make file named *MakefileWin*		
-	2 - After this, make sure that your have
-	3 - Compile the HH_BBT2017_doubleP
-LongDouble
+- Double
+	1. Open the Double directory and compile the make file named *MakefileWin*		
+	2. After this, make sure that your have
+	3. Compile the HH_BBT2017_doubleP
+- LongDouble
+	1. Open the Long Double directory and compile the make file named *MakefileWin*		
+	2. After this, make sure that your have
+	3. Compile the HH_BBT2017_LongDouble
+- Boost
+	1. Open the Boost directory and compile the make file named *MakefileWin*		
+	2. After this, make sure that your have
+	3. Compile the HH_BBT2017_Boost
 
-
-Boost
 > If your platform is Linux or MacOS:
 Figures
 
