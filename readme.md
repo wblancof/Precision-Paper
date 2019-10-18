@@ -4,7 +4,7 @@
 **How to compile**
 > **If your platform is Windows**
 - Double
-1. Open the *double* directory and compile the make file named *MakefileWin*		
+1. Open the **_double_** directory and compile the make file named *MakefileWin*		
 2. After this, make sure that your have an HH_BBT2017_doubleP.exe file
 3. For neurons 100% Excitatory and dt = 0.01 it will make four files inside the results directory, are they:
 	 - HH_BBT_rk4_dt0100_100,0,vI70,t=8s_double_IappDES,Epis.txt
