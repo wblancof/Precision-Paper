@@ -2,7 +2,7 @@
 ***After set the environment with the _C++ compile_ and the _Boost library_***
 
 **How to compile**
-> If your platform is Windonws
+> **If your platform is Windonws**
 - Double
 1. Open the Double directory and compile the make file named *MakefileWin*		
 2. After this, make sure that your have an HH_BBT2017_doubleP.exe file
