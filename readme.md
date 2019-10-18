@@ -1,5 +1,5 @@
 
-***After set the environment with the _C++ compile_ and the _Boost library_, open the file***
+***After set the environment with the _C++ compile_ and the _Boost library_***
 
 **How to compile**
 > If your platform is Windonws:
@@ -17,6 +17,9 @@
 	3. Compile the HH_BBT2017_Boost
 
 > If your platform is Linux or MacOS:
-Figures
+
+> How compile the Figures
+***After compile the archives for each platform and each precision***
+
 
 **For more informations about the code equations, check the _JCN_2019_Eqs_Parameters_**
